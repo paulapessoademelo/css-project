@@ -12,7 +12,8 @@
 
  main{
       display: grid;
-      grid-display-columns: 23.5555rem 2fr; 
+      grid-template-columns: 23.5555rem 1fr;
+      grid-column-gap: 2em 
 }
 
  section:first-child{ 
