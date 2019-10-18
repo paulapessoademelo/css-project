@@ -10,6 +10,11 @@
        background-color: #ccc;
  }
 
+ div{
+      max-width: 53.3333rem;
+      margin: 0 auto;
+}
+
  main{
       display: grid;
       grid-template-columns: 23.5555rem 1fr;
