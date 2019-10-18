@@ -12,10 +12,12 @@
 
  main{
       display: grid;
-      grid-template-columns: 23.5555rem 2fr;
-      grid-column-gap: 2em 
+      grid-template-columns: 23.5555rem 1fr;
+      grid-column-gap: 1em 
 }
 
- section:first-child{ 
-                     border: 1px solid black;
+ img{ 
+      border: 1px solid black;
+      box-shadow: 0.1111em solid black;
+      width: 100%;
  }
