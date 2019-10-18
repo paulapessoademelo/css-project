@@ -17,12 +17,12 @@
 
  main{
       display: grid;
-      grid-template-columns: 23.5555rem 1fr;
-      grid-column-gap: 1em 
+      grid-template-columns: 23.5555rem 2fr;
+      grid-column-gap: 0.8888em 
 }
 
  img{ 
       border: 1px solid black
-      box-shadow: 0.375em solid black;
+      box-shadow: 0.1111em solid black;
       width: 100%;
  }
