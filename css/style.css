@@ -7,11 +7,7 @@
 
  body{
        font-family: 'Open Sans Condensed', sans-serif;
- }
- 
- background{
-             background-color: #ccc;
-    
+       background-color: #ccc;
  }
 
  section:first-child{ 
