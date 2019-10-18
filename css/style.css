@@ -26,3 +26,7 @@
       box-shadow: 0.1111em solid black;
       width: 100%;
  }
+section:first-child h1{
+                       font-color: white;
+
+ }
