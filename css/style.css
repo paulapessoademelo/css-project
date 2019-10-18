@@ -22,7 +22,7 @@
 }
 
  img{ 
-      border: 1px solid black;
-      box-shadow: 0.1111em solid black;
+      border: 1px solid black
+      box-shadow: 0.375em solid black;
       width: 100%;
  }
