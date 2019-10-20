@@ -71,14 +71,15 @@ section > h2{
 
  ul li{
        font-variant: small-caps;
+       text-decoration: none;
        list-style-type: none;
        margin: 0;
-
+       padding: .5555em;
       
  }
 
  footer  p{
-             margin-bottom: 8.5em;
+             margin-bottom: 18.5em;
              text-align: center;
              padding: 0 auto;
 }
