@@ -31,7 +31,7 @@
       grid-template-columns:  24.4444em 1fr;
       grid-column-gap: 0.8888em; 
       grid-template-rows: auto auto 5em;
-
+      margin: 2.5%;
 }
 
  img{ 
@@ -77,16 +77,21 @@ section > h2{
  ul{
 
        list-style: none;
-       margin: 0 auto;
+       align-items: center;
        padding: .5em;
        border: 1px solid;
        border-radius: .5em;
-       margin-top: 0 auto;
+       margin: 0;
        
  }
 
+ ol ul li{
+           margin: 0 1em;
+
+}
+
  footer  p{
-             margin-bottom: 26rem;
+             margin: 0 auto;
              text-align: center;
              padding: 0 auto;
 }
