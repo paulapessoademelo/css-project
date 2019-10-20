@@ -97,9 +97,15 @@ ul li{
 
 } 
 
+ footer{
+         margin; 28em;     
+
+
+ }
+
 
  footer  p{
-             margin-bottom: -52rem;
+             margin: 0;
              text-align: center;
              padding: 0 auto;
 }
