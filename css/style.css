@@ -70,10 +70,9 @@ section > h2{
  }
 
  ul{
-       font-variant: small-caps;
-       list-style-type: none;
-       margin: 0;
-       padding: .5555em;
+       list-style: none;
+       margin: .5em auto;
+       padding: .5555em auto;
       
  }
 
