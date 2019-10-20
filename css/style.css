@@ -28,7 +28,7 @@
 
  main{
       display: grid;
-      grid-template-columns:  26.6666em 1fr;
+      grid-template-columns:  24.4444em 1fr;
       grid-column-gap: 0.8888em; 
       grid-template-rows: auto auto 5em;
 
@@ -70,7 +70,7 @@ section > h2{
        border-side-left-radius: 1.3888em;
        padding: .5em 1em;
        margin-left: .5em;
-       margin-bottom: 26em; 
+       margin-bottom: 27em; 
        margin-top: 0 auto;
 
  }
@@ -88,7 +88,7 @@ section > h2{
  }
 
  footer  p{
-             margin-bottom: 23rem;
+             margin-bottom: 26rem;
              text-align: center;
              padding: 0 auto;
 }
