@@ -22,7 +22,7 @@
          margin-top: .5em;         
  }
  header > h1{
-             font-size: 2em;
+             font-size: 3.5em;
  }
 
 
@@ -54,7 +54,7 @@
  }
 
 section > h2{
-            font-size: 1.5em;
+            font-size: 2em;
 
  }
 
@@ -70,7 +70,7 @@ section > h2{
  }
 
  ul{
-       list-style: none;
+       list-style-type: none;
        margin: .5em;
        padding: .5em;
        text-decoration: none;
@@ -78,7 +78,7 @@ section > h2{
  }
 
  footer  p{
-             margin-bottom: 25em;
+             margin-bottom: 23rem;
              text-align: center;
              padding: 0 auto;
 }
