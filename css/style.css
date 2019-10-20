@@ -28,7 +28,7 @@
 
  main{
       display: grid;
-      grid-template-columns: minmax(23.5555rem, 1fr) 16em;
+      grid-template-columns: 22.7777 1fr;
       grid-column-gap: 0.8888em; 
 }
 
@@ -64,6 +64,7 @@ section > h2{
        border: 1px solid;
        border-radius: .5em;
        border-top-right-radius: 1.3888em;
+       border-top-left-radius: 1.3888em;
        padding: .5em 1em;
        margin-left: .5em;
 
