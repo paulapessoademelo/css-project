@@ -68,18 +68,16 @@ section > h2{
        border-top-right-radius: 1.3888em;
        border-top-left-radius: 1.3888em;
        border-side-left-radius: 1.3888em;
-       padding: .5em 1em;
-       margin-left: .5em;
-       margin-bottom: 27em; 
-       margin-top: 0 auto;
+       padding: .5em 1em; 
+       margin: 0 auto;
 
  }
 
 
- ul li {
+ ul{
 
        list-style: none;
-       margin: .5em;
+       margin: 0 auto;
        padding: .5em;
        border: 1px solid;
        border-radius: .5em;
