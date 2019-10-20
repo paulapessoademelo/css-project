@@ -18,9 +18,11 @@
  h1, h2{
          color: white;
          font-style: italic;
-         font-size: 2.6666rem;
          text-shadow: .2em .2em .2em black;
          margin-top: .5em;         
+ }
+ header > h1{
+             font-size: 2em;
  }
 
 
@@ -48,7 +50,15 @@
  section:last-child{
                    grid-row: 2 / 3;
 
+ 
  }
+
+section > h2{
+            font-size: 1.5em;
+
+ }
+
+
  ol li{
        font-style: italic;
        display: block;
@@ -61,14 +71,16 @@
 
  ul li{
        font-variant: small-caps;
+       list-style-type: none;
        margin: 0;
+
       
  }
 
  footer  p{
-             margin-bottom: 1.5em;
+             margin-bottom: 8.5em;
+             text-align: center;
              padding: 0 auto;
-
 }
 
  a{
@@ -76,6 +88,6 @@
  }
 
 a:hover{
-   color: olive;
+   color: olive
 
  }
