@@ -31,6 +31,7 @@
       grid-template-columns:  24.4444em 1fr;
       grid-column-gap: 0.8888em; 
       grid-template-rows: auto auto 5em;
+      grid-column-gap: 0.8888em;
       margin: 2.5%;
 }
 
@@ -46,11 +47,12 @@
  
  section:nth-child{
                   grid-row: 1 /  2;
- }
+                  margin: 0 auto; 
+}
  
  section:last-child{
                    grid-row: 2 / 3;
-
+                   margin: 0 auto;
  
  }
 
@@ -85,8 +87,8 @@ section > h2{
        
  }
 
- ol ul li{
-           margin: 0 1em;
+ li{
+     margin: 0 1em;
 
 }
 
