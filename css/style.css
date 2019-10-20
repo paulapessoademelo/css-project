@@ -15,9 +15,11 @@
       margin: 0 auto;
 }
 
- h1~h2{
-       font-color: white;
-       font-size: 2.6666rem;
+ h1 ~ h2{
+         color: white;
+         font-style: italic;
+         font-size: 2.6666rem;
+         text-shadow: .2em .2em .2em silver;
                  
 
  }
@@ -25,7 +27,7 @@
 
  main{
       display: grid;
-      grid-template-columns: 23.5555rem 1fr;
+      grid-template-columns: 23.5555rem 2fr;
       grid-column-gap: 0.8888em; 
 }
 
@@ -36,7 +38,7 @@
  }
 
  section:first-child{
-                     grid-row: 1 /  2;
+                     grid-row: 1 / span 2;
 
  }
  
@@ -45,7 +47,7 @@
  }
  
  section:last-child{
-                   grid-row: 2 / 2;
+                   grid-row: 1 / 2;
 
  }
  ol li{
@@ -53,3 +55,4 @@
  }
  ul li{
        font-variant: small-caps;
+ }
