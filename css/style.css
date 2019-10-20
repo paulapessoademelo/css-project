@@ -19,8 +19,8 @@
          color: white;
          font-style: italic;
          font-size: 2.6666rem;
-         text-shadow: .2em .2em .2em silver;
-         margin-top: 1.5em;         
+         text-shadow: .2em .2em .2em black;
+         margin-top: .5em;         
  }
 
 
@@ -32,7 +32,7 @@
 
  img{ 
       border: 1px solid black;
-      box-shadow: 0.1111em solid black;
+      box-shadow: 0.3333em 0.3333  black;
       width: 100%;
  }
 
@@ -53,7 +53,7 @@
        font-style: italic;
        display: block;
        border: 1px solid;
-       border-radius: .5em solid white;
+       border-radius: .5em white;
        padding: 0 auto;
        margin-left: 1.5em;
 
@@ -71,3 +71,11 @@
 
 }
 
+ a{
+   color: red;
+ }
+
+a:hover{
+   color: olive;
+
+ }
