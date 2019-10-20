@@ -98,7 +98,8 @@ ul li{
 } 
 
  footer{
-         margin; 28em;     
+         margin: 0;
+         font-style: small-caps;     
 
 
  }
