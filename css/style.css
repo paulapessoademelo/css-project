@@ -59,7 +59,7 @@ section > h2{
  }
 
 
- ol li{
+ ol{
        font-style: italic;
        display: block;
        border: 1px solid;
@@ -69,9 +69,8 @@ section > h2{
 
  }
 
- ul li{
+ ul{
        font-variant: small-caps;
-       text-decoration: none;
        list-style-type: none;
        margin: 0;
        padding: .5555em;
