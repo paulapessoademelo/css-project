@@ -71,13 +71,14 @@ section > h2{
 
  ul{
        list-style: none;
-       margin: .5em auto;
-       padding: .5555em auto;
+       margin: .5em;
+       padding: .5em;
+       text-decoration: none;
       
  }
 
  footer  p{
-             margin-bottom: 18.5em;
+             margin-bottom: 25em;
              text-align: center;
              padding: 0 auto;
 }
