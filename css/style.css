@@ -87,13 +87,19 @@ section > h2{
        
  }
 
- li{
+ol li{
      margin: 0 1em;
 
 }
 
+ul li{
+      margin: 0 1 em;
+
+} 
+
+
  footer  p{
-             margin-bottom: 26em;
+             margin-bottom: 28em;
              text-align: center;
              padding: 0 auto;
 }
