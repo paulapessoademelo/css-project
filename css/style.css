@@ -22,13 +22,13 @@
          margin-top: .5em;         
  }
  header > h1{
-             font-size: 3.5em;
+             font-size: 3em;
  }
 
 
  main{
       display: grid;
-      grid-template-columns:  24.4444em 1fr;
+      grid-template-columns:  23.2222em 1fr;
       grid-column-gap: 0.8888em; 
       grid-template-rows: auto auto 5em;
       grid-column-gap: 0.8888em;
@@ -93,7 +93,7 @@ section > h2{
 }
 
  footer  p{
-             margin: 0 auto;
+             margin-bottom: 26em;
              text-align: center;
              padding: 0 auto;
 }
