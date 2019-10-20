@@ -54,8 +54,8 @@
        display: block;
        border: 1px solid;
        border-radius: .5em;
-       padding: .5em 1em;
-       marging: .5em;
+       padding: 0;
+       margin: 0;
 
  }
 
@@ -64,3 +64,10 @@
        margin: 0;
       
  }
+
+ footer > p{
+             margin: 0 auto;
+             padding: 0 auto;
+
+}
+
