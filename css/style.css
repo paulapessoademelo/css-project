@@ -53,9 +53,9 @@
        font-style: italic;
        display: block;
        border: 1px solid;
-       border-radius: .5em white;
-       padding: 0 auto;
-       margin-left: 1.5em;
+       border-radius: .5em;
+       padding: .5em 1em;
+       margin-left: .5em;
 
  }
 
