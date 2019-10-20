@@ -28,7 +28,7 @@
 
  main{
       display: grid;
-      grid-template-columns: 23.5555rem 2fr;
+      grid-template-columns: minmax(23.5555rem, 1fr) 16em;
       grid-column-gap: 0.8888em; 
 }
 
@@ -37,9 +37,8 @@
       box-shadow: 0.3333em 0.3333  black;
       width: 100%;
  }
-
  section:first-child{
-                     grid-row: 1 / span 3;
+                     grid-row: 1 / span 2;
 
  }
  
@@ -64,6 +63,7 @@ section > h2{
        display: block;
        border: 1px solid;
        border-radius: .5em;
+       border-top-right-radius: 1.3888em;
        padding: .5em 1em;
        margin-left: .5em;
 
