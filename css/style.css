@@ -13,7 +13,7 @@
  div{
       max-width: 53.3333rem;  /* 960px / 18px */
       margin: 0 auto;
-}
+ }
 
  h1, h2{
          color: white;
@@ -33,7 +33,7 @@
       grid-template-rows: auto auto 5em;
       grid-column-gap: 0.8888em;
       margin: 2.5%;
-}
+ }
 
  img{ 
       border: 1px solid black;
@@ -48,7 +48,7 @@
  section:nth-child{
                   grid-row: 1 /  2;
                   margin: 0 auto; 
-}
+ }
  
  section:last-child{
                    grid-row: 2 / 3;
@@ -56,8 +56,8 @@
  
  }
 
-section > h2{
-            font-size: 2em;
+ section > h2{
+              font-size: 2em;
 
  }
 
@@ -90,15 +90,15 @@ section > h2{
 ol li{
      margin: 0 1em;
 
-}
+ }
 
 ul li{
       margin: 0 1 em;
 
-} 
+ } 
 
  footer{
-         margin-bottom: -52rem;
+         margin: 0;
          font-style: small-caps;     
 
 
@@ -109,13 +109,13 @@ ul li{
              margin: 0;
              text-align: center;
              padding: 0 auto;
-}
+ }
 
  a{
    color: red;
  }
 
-a:hover{
-   color: olive
+ a:hover{
+         color: olive
 
  }
