@@ -87,13 +87,13 @@
        
  }
 
-ol li{
-     margin: 0 1em;
+ ol li{
+       margin: 0 1em;
 
  }
 
-ul li{
-      margin: 0 1 em;
+ ul li{
+       margin: 0 1 em;
 
  } 
 
@@ -106,7 +106,7 @@ ul li{
 
 
  footer  p{
-             margin-top: -27rem;
+             margin-top: -48rem;
              text-align: center;
              padding: 0 auto;
  }
