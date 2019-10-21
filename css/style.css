@@ -37,7 +37,7 @@
 
  img{ 
       border: 1px solid black;
-      box-shadow: 0.3333em 0.3333  black;
+      box-shadow: .2em .2em .2em black;
       width: 100%;
  }
  section:first-child{
