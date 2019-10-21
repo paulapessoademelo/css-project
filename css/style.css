@@ -23,6 +23,7 @@
  }
  header > h1{
              font-size: 3em;
+             margin-left: 0 auto;
  }
 
 
@@ -70,6 +71,8 @@
        border-top-right-radius: 1.3888em;
        border-top-left-radius: 1.3888em;
        border-side-left-radius: 1.3888em;
+       border-bottom-right-radius: 1.3888em;
+       border-bottom-left-radius: 1.3888em;
        padding: .5em 1em; 
        margin: 0 auto;
 
